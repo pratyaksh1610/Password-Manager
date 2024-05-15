@@ -1,5 +1,7 @@
 # Password-Manager
 
+![image](https://github.com/pratyaksh1610/Password-Manager/assets/76740999/804d2b78-9b57-4c8c-8b9e-bb074f7c9fbb)
+
 A simple password manager application built using Python and the Tkinter library. This application allows users to generate secure passwords and store them for various websites along with their email or username.
 
 ## Table of Contents
